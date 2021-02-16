@@ -114,12 +114,15 @@ box-sizing: border-box;
   transform: translateY(20px);
   transition:  0.6s;
   opacity: 0;
+  pointer-events: none;
+
 }
 /* toggleClassで追加する */
 .overlay {
   opacity: 0.8;
   transition: ease-in 0.6s;
   transform: none;
+  pointer-events: auto;
 }
 .overlay a:hover {
   color: red;

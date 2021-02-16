@@ -36,6 +36,7 @@
   <link rel="stylesheet" href="css/index/reset.css">
   <link rel="stylesheet" href="css/index/header.css">
   <link rel="stylesheet" href="css/index/main.css">
+  <link rel="stylesheet" href="css/index/contact.css">
   <link rel="stylesheet" href="css/index/footer.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
   <link rel="stylesheet" href="fullcalendar/main.css" />

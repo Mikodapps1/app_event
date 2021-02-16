@@ -70,7 +70,7 @@ div[class ^="event"] {
   font-size: 20px;
 }
 
-@media  screen and  (max-width : 980px) {
+@media  screen and  (max-width : 1000px) {
   .event_contents {
     display: block;
   }
